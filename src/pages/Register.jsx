@@ -2,7 +2,7 @@ import { useState } from "react";
 import { useNavigate } from "react-router-dom"; // Importar useNavigate
 import "../CSS/Auth.css";
 import bgImg from "../images/bgImg.jpg";
-import logo from "../images/trademateLogoTransparent.png";
+import logo from "../images/TradeMateLogoTransparent.png";
 import TextField from "@mui/material/TextField";
 import { styled } from "@mui/material/styles";
 import { Link } from "react-router-dom";
