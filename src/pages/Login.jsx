@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { useNavigate, Link } from "react-router-dom";
 import "../CSS/Auth.css"; // Se usa el mismo archivo CSS para mantener el estilo
 import bgImg from "../images/bgImg.jpg";
-import logo from "../images/trademateLogoTransparent.png";
+import logo from "../images/TradeMateLogoTransparent.png";
 import { signInWithEmailAndPassword } from "firebase/auth";
 import { auth } from "../firebase/config.js";
 import TextField from "@mui/material/TextField";
